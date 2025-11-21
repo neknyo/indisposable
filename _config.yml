@@ -1,0 +1,6 @@
+title: nek makes things world in this case
+theme: jekyll-theme-cayman
+# 'cayman' is a clean, blue/green gradient theme. 
+# You can also try 'jekyll-theme-minimal' or 'jekyll-theme-hacker'.
+plugins:
+  - jekyll-seo-tag
